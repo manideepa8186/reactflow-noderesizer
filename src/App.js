@@ -16,7 +16,7 @@ const initialNodes = { '1':{
                               style: { background: '#fff', border: '1px solid black', borderRadius: 15, fontSize: 12 },
                             },
                         '2':{
-                          id: '1',
+                          id: '2',
                           type: 'ResizeableNode',
                           data: { label: 'NodeResizer' },
                           position: { x: 0, y: 50 },
